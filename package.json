@@ -1,0 +1,27 @@
+{
+  "name": "create-react-app-from-scratch",
+  "version": "1.0.0",
+  "description": "react-boiler-plate",
+  "main": "index.js",
+  "scripts": {
+    "compile":"sh compile.sh",
+    "commit":"sh commit.sh",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/turkaytunc/create-react-boiler.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "boilerplate",
+    "ts"
+  ],
+  "author": "Türkay Tunç",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/turkaytunc/create-react-boiler/issues"
+  },
+  "homepage": "https://github.com/turkaytunc/create-react-boiler#readme"
+}
